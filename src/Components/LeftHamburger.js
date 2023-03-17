@@ -61,30 +61,27 @@ const LeftHamburger = () => {
       </ul>
       <hr className="my-2 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-2" />
       <h1 className="font-bold">Subscriptions</h1>
-      <ul className="p-1 ">
-        <li className="flex p-1">
-          <FaUserCircle className="m-1" /> Flying Beast
+     <ul className='p-1 '>
+        <li className='flex p-1'>
+          <FaUserCircle className='m-1' /> Akshay Saini
         </li>
-        <li className="flex p-1">
-          <FaUserCircle className="m-1" /> Akshay Saini
+        <li className='flex p-1'>
+          <FaUserCircle className='m-1' /> Take U Forward
         </li>
-        <li className="flex p-1">
-          <FaUserCircle className="m-1" /> Take U Forward
+        <li className='flex p-1'>
+          <FaUserCircle className='m-1' /> Codedamn
         </li>
-        <li className="flex p-1">
-          <FaUserCircle className="m-1" /> Mortal Gaming
+        <li className='flex p-1'>
+          <FaUserCircle className='m-1' /> Pedro Tech
         </li>
-        <li className="flex p-1">
-          <FaUserCircle className="m-1" /> S8ul
+        <li className='flex p-1'>
+          <FaUserCircle className='m-1' /> Fraz
         </li>
-        <li className="flex p-1">
-          <FaUserCircle className="m-1" /> Fraz
+        <li className='flex p-1'>
+          <FaUserCircle className='m-1' /> Aditya Verma
         </li>
-        <li className="flex p-1">
-          <FaUserCircle className="m-1" /> Aditya Verma
-        </li>
-        <li className="flex p-1">
-          <FaUserCircle className="m-1" /> Striver
+        <li className='flex p-1'>
+          <FaUserCircle className='m-1' /> Striver
         </li>
       </ul>
     </div>
