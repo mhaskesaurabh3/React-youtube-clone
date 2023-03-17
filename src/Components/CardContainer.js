@@ -33,7 +33,7 @@ const CardContainer = () => {
   ) : (
     <>
       <TopButtonList />
-      <div className="flex flex-wrap my-14 p-3 font-roboto ">
+      <div className="flex flex-wrap my-14 p-3 font-roboto justify-evenly">
         {allVideos &&
           allVideos.map((video) => (
             <Link
